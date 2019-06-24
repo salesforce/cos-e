@@ -15,7 +15,7 @@ used with that in mind.
 On a positive note, because CoS-E uses crowd-sourcing it also adds diversity of perspective and in particular diverse reasoning on world knowledge to the CQA dataset.
 
 ### Bibtex
-If you use this dataset or paper in your work, please cite us:
+If you use this dataset or paper in your work, please cite [Explain Yourself! Leveraging Language models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361):
 
 ```
 @inproceedings{rajani2019explain,
