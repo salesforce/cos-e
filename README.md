@@ -1,6 +1,6 @@
 # Commonsense Explanations (CoS-E)
 
-This repository contains human commonsense explanations for the [Commonsense Question Answering (CQA)](https://www.tau-nlp.org/commonsenseqa) dataset. We collected explanations for the train and dev sets for v1.0 and v1.11 of CQA.
+This repository contains human commonsense explanations for the [Commonsense Question Answering (CQA)](https://www.tau-nlp.org/commonsenseqa) dataset. We collected explanations for the train and dev sets for v1.0 and v1.11 of CQA. The instance ids correspond to questions in CQA.
 
 Each file has two types of explanations:
 1. Selected: the highlighted text span in the question that serves as justification for the answer choice.
