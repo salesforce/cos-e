@@ -9,7 +9,13 @@ Each file has two types of explanations:
 Along with the raw files, we also included the post-processed files for each of the categories. However, note that we used the original raw files for all our experiments in our paper.
 
 #### Ethical concerns
-We observed substantial gender disparity and bias in the CQA dataset with higher proportion of female pronouns used in negative contexts. This kind of bias has inevitably propagated into CoS-E. We advise that these datasets and trained models be
+We observed substantial gender disparity and bias in the CQA dataset with higher proportion of female pronouns used in negative contexts.
+
+Following are some such examples from CQA:
+- "She was a horrible pet owner, she put a what on her cat?"
+- "The woman was yelling obscenities in public,and while it was entertaining for people passing by,what did her husband feel?"
+
+This kind of bias has inevitably propagated into CoS-E. We advise that these datasets and trained models be
 used with that in mind.
 
 On a positive note, because CoS-E uses crowd-sourcing it also adds diversity of perspective and in particular diverse reasoning on world knowledge to the CQA dataset.
