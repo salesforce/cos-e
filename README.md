@@ -13,10 +13,10 @@ Along with the raw files, we also included the post-processed files for each of 
 We observed substantial gender disparity and bias in the CQA dataset with higher proportion of female pronouns used in negative contexts.
 
 Following are some such examples from CQA:
-- Q:"She was a horrible pet owner, she put a what on her cat?" <br>
-   AC: **wool sweater,** get wet, eat vegetables
-- Q: "The woman was yelling obscenities in public,and while it was entertaining for people passing by,what did her husband feel?"<br>
-  AC: fulfillment, fatigue, **embarrassment**
+- **Q:** "She was a horrible pet owner, she put a what on her cat?" <br>
+   *AC:* **wool sweater,** get wet, eat vegetables
+- **Q:** "The woman was yelling obscenities in public,and while it was entertaining for people passing by,what did her husband feel?"<br>
+  **AC:** fulfillment, fatigue, **embarrassment**
 
 This kind of bias has inevitably propagated into CoS-E. We advise that these datasets and trained models be
 used with that in mind.
