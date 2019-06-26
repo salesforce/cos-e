@@ -14,7 +14,7 @@ We observed substantial gender disparity and bias in the CQA dataset with higher
 
 Following are some such examples from CQA:
 - **Q:** "She was a horrible pet owner, she put a what on her cat?" <br>
-   *AC:* **wool sweater,** get wet, eat vegetables
+   **AC:** **wool sweater,** get wet, eat vegetables
 - **Q:** "The woman was yelling obscenities in public,and while it was entertaining for people passing by,what did her husband feel?"<br>
   **AC:** fulfillment, fatigue, **embarrassment**
 
