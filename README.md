@@ -8,6 +8,8 @@ Each file has two types of explanations:
 
 Along with the raw files, we also included the post-processed files for each of the categories. However, note that we used the original raw files (even though noisy) for all our experiments in our paper.
 
+### Update on June 15, 2020
+We have included the original training, dev and test (without answers) from CQA v1.0 so that the results from our ACL paper is reproducible. Note that this earlier version only has 3 answer choices and is also smaller in size compared to v1.11.
 
 #### Ethical concerns
 We observed substantial gender disparity and bias in the CQA dataset with higher proportion of female pronouns used in negative contexts.
